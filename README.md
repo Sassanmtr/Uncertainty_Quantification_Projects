@@ -1,5 +1,6 @@
-# PhD Projects
- Projects (mainly theoretical) that I did as a PhD candidate at the Chair of Mathematics for Uncertainty Quantification in RWTH Aachen University
+# Projects at the Chair of Mathematics for Uncertainty Quantification in RWTH Aachen University
+
+ Projects (mainly theoretical) that I did while I was a research assistant at the Chair of Mathematics for Uncertainty Quantification in RWTH Aachen University
  
 1. Risk-Averse Optimal Control:
 As part of the course "Numerical methods for Stochastic Differenfial Equations"
